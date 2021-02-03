@@ -1,0 +1,25 @@
+{
+  "name": "mocha-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sota2502/mocha-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sota2502/mocha-test/issues"
+  },
+  "homepage": "https://github.com/sota2502/mocha-test#readme",
+  "devDependencies": {
+    "mocha": "^8.2.1"
+  }
+}
